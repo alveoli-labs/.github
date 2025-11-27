@@ -1,34 +1,20 @@
-# Alveoli Labs
+# Alveoli
 
-**Building the future of open source collaboration**
+**Build what wins, not what's loud.**
 
-Alveoli Labs is the company behind GitMesh, an AI-powered Git collaboration platform designed to solve contributor onboarding and project management challenges in open source software development.
+Alveoli Labs is the company behind GitMesh, Market-driven development automated.
 
 ## Our Mission
 
-Open source projects lack the organizational infrastructure that exists in corporate environments. Contributors struggle to find appropriate tasks, maintainers spend excessive time on onboarding, and enterprises face security risks when adopting open source dependencies. Alveoli Labs addresses these challenges through intelligent automation and enterprise-grade tooling.
+GitMesh correlates market signals with engineering telemetry to auto-generate ranked backlogs, sprint plans, and work routing - fully synced across your dev stack.
 
 ## What We Build
 
 ### GitMesh
 
-GitMesh is an intelligent Git collaboration network and official Linux Foundation Decentralized Trust lab. The platform provides:
-
-- AI-powered issue triage and task matching
-- Real-time contributor activity dashboards
-- Branch-level codebase intelligence
-- Automated project health monitoring
-- Compliance and vulnerability tracking
+GitMesh watches thousands of signals across GitHub, Reddit, X, Discord, Stack Overflow, and beyond - then correlates them with your team's actual capacity and sprint progress. Instead of manually triaging feedback or guessing priorities, you get auto-generated GitHub issues ranked by impact, ICP fit, and competitive gaps. It maps work to the right engineers, syncs milestones across your stack, and even guides implementation - so your team ships what users need, not just what they asked for.
 
 GitMesh is open source and available at: [github.com/LF-Decentralized-Trust-labs/gitmesh](https://github.com/LF-Decentralized-Trust-labs/gitmesh)
-
-## Traction
-
-- 100+ daily active users across Linux Foundation, CNCF, and other projects
-- Official Linux Foundation Decentralized Trust lab status
-- OpenSSF Silver Badge for security best practices
-- Enterprise pilots with multiple Linux Foundation labs
-- Speaking engagements at Open Source Summit Korea and Japan
 
 ## Contact
 
@@ -45,7 +31,3 @@ Founded by Ryan Madhuwala, and Ronit Raj in 2025. Both founders are active open 
 
 - GitMesh is licensed under Apache 2.0. 
 - GitMesh-Pro services are provided under commercial terms.
-
----
-
-**Alveoli Labs** | Building infrastructure for the next generation of open source collaboration
